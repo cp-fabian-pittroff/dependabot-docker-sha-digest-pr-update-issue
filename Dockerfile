@@ -1,1 +1,1 @@
-FROM steamcmd/steamcmd:ubuntu-22@sha256:091eb51de70e22deacb316671f90d526e253721d391138df82c5541ced75c2f9
+FROM steamcmd/steamcmd:ubuntu-22@sha256:cff53167d5ca79ebdeee114ea208f392003e81f6cf9ee9b9b8083c1148f773f4
